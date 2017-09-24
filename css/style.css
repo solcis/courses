@@ -1,0 +1,33 @@
+#title {
+  font-size: 52px;
+  padding: 40px 20px 10px 0px;
+}
+
+#description {
+  padding: 0px 0px 40px;
+}
+
+.school {
+  padding-top: 35px;
+  font-size: 18px;
+}
+
+.container {
+  padding-left: 50px;
+}
+
+.course {
+  font-size: 16px;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+  color: rgb(0, 177, 181);
+}
+
+footer {
+  padding-top: 50px;
+}
+
+#year {
+  font-size: 11px;
+}
